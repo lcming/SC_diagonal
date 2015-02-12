@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <iostream>
 #include "SC.h"
-#define BSIZE 12
+#define BSIZE 4
 using namespace std;
 
 int main(){
